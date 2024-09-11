@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 08 Sep 2024 18:28:25 at https://nubank.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://nubank.com.br/ -O1 "C:\Meus Sites\niu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:29:31	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://nubank.com.br/)
+18:36:13	Error: 	"Not Found" (404) at link https://nubank.com.br/seguros/celular/www.nubank.com.br/seguros/celular (from https://nubank.com.br/seguros/celular/)
+18:36:13	Error: 	"Not Found" (404) at link https://nubank.com.br/conta-pj/white.dark (from https://nubank.com.br/conta-pj/)
+18:36:21	Warning: 	Moved Permanently for https://nubank.com.br/carreiras/
+18:36:21	Warning: 	File has moved from https://nubank.com.br/carreiras/ to https://international.nubank.com.br/pt-br/carreiras/
+18:36:21	Error: 	"Not Found" (404) at link https://nubank.com.br/docs/Nubank_Pol%25C3%25ADtica_de_Privacidade_Under18_V2.pdf (from https://nubank.com.br/contrato/politica-privacidade/)
+18:37:18	Error: 	"Not Found" (404) at link https://nubank.com.br/en/business-account/white.dark (from https://nubank.com.br/en/business-account/)
+18:37:23	Error: 	"Not Found" (404) at link https://nubank.com.br/conta-pj-facil/white.dark (from https://nubank.com.br/conta-pj-facil/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 3 seconds : 517 links scanned, 509 files written (122172261 bytes overall) [71551632 bytes received at 131770 bytes/sec], 82005847 bytes transferred using HTTP compression in 152 files, ratio 29%, 15.2 requests per connection
+(6 errors, 2 warnings, 0 messages)
